@@ -1,0 +1,1 @@
+(self.webpackChunkstoragebag_wiki=self.webpackChunkstoragebag_wiki||[]).push([[525],{5525:()=>{}}]);
